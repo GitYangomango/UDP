@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhg65Q8tPCksG+9KiTINf1DaEuRZXiklXhoicNfn8ggT7C9q760VPzynm/FgWnep9S4hfEIRTLmVPcPJP5P9cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yangx\\Desktop\\AAAA LAVORO\\xiang.yang.5G.UDP\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yangx\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yangx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yangx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

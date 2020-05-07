@@ -1,0 +1,11 @@
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.exe
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.deps.json
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.json
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.runtimeconfig.dev.json
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.dll
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\bin\Debug\netcoreapp3.0\Server.pdb
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\obj\Debug\netcoreapp3.0\Server.csprojAssemblyReference.cache
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfoInputs.cache
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\obj\Debug\netcoreapp3.0\Server.AssemblyInfo.cs
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\obj\Debug\netcoreapp3.0\Server.dll
+C:\Users\yangx\Desktop\Visual studio stuff\xiang.yang.5G.UDP\Server\obj\Debug\netcoreapp3.0\Server.pdb
